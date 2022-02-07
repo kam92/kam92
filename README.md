@@ -10,7 +10,7 @@
 <li>💬 Ping me about <strong>java, python, security, database and cloud stuff</strong>.</li>
 </ul>
 
-<h2>🚀 Some Tools, programming languages and frameworks I Use include:</h2>
+<h2>🚀 Some Tools I use</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
@@ -30,5 +30,3 @@
 
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=kam92&show_icons=true&count_private=true" alt="kam92" />
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=kam92.kam92" alt="visitors"></p>
-
