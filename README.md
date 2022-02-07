@@ -28,4 +28,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=kam92&show_icons=true&count_private=true" alt="kam92" />
+<img src="https://github-readme-stats.vercel.app/api?username=kam92&show_icons=true&count_private=true&hide=stars&theme=dark&include_all_commits=true" alt="kam92" />
