@@ -7,7 +7,7 @@
 <ul>
 <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/kam92">Github</a>.</li>
-<li>💬 Ping me about <strong>java, python, security, database and cloud stuff</strong>.</li>
+<li>💬 Ping me about <strong>java, security, database and cloud stuff</strong>.</li>
 </ul>
 
 <h2>🚀 Some Tools I use</h2>
