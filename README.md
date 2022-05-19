@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm Kalil</h2>
 <p>I'm currently a software developer at <strong><a href="https://firedev.com.br/">FireDev</a></strong> based in Brazil. I am working on some side projects, learning a couple new dishes and experimenting new languages.</p>
-<p> <a href="https://www.linkedin.com/in/kalil-el-ammar-camera-a083b51ba/"><img src="https://img.shields.io/badge/-@kalil-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/kalil-el-ammar-camera-a083b51ba/" alt="LinkedIn Badge"></a>  <a href="https://open.spotify.com/user/kalil92?si=c6e2fc57482f4fd1"><img src="https://img.shields.io/badge/-@kalil92-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/kalil92?si=c6e2fc57482f4fd1" alt="Spotify Badge"></a></p>
+<p> <a href="https://www.linkedin.com/in/kalil-el-ammar-camera-a083b51ba/"><img src="https://img.shields.io/badge/-@kalil-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/kalil-el-ammar-camera-a083b51ba/" alt="LinkedIn Badge"></a>  
 
 
 <h2>⚡️ A Few Quick Facts</h2>
